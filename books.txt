@@ -1,0 +1,5 @@
+101 "The Great Gatsby" "F. Scott Fitzgerald" Fiction Available
+102 "1984" "George Orwell" Fiction Available
+103 "A Brief History of Time" "Stephen Hawking" Science Available
+104 "To Kill a Mockingbird" "Harper Lee" Fiction Available
+105 "The Lean Startup" "Eric Ries" Business Available
